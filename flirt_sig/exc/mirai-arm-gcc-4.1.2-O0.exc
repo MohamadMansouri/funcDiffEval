@@ -1,0 +1,22 @@
+
+htonl                                             	00 0000 0020A0E1FF3800E2FF0C00E22334A0E10004A0E1020C80E1223C83E1000083E1
+ntohl                                             	00 0000 0020A0E1FF3800E2FF0C00E22334A0E10004A0E1020C80E1223C83E1000083E1
+
+htons                                             	00 0000 0038A0E12304A0E1FF0C00E2230C80E10EF0A0E1........................
+ntohs                                             	00 0000 0038A0E12304A0E1FF0C00E2230C80E10EF0A0E1........................
+
+call___do_global_ctors_aux                        	00 0000 04E02DE504F09DE4................................................
+call___do_global_dtors_aux                        	00 0000 04E02DE504F09DE4................................................
+call_frame_dummy                                  	00 0000 04E02DE504F09DE4................................................
+
+table_lock_val                                    	00 0000 04E02DE508D04DE20030A0E10030CDE50030DDE58331A0E10320A0E118309FE5
+table_unlock_val                                  	00 0000 04E02DE508D04DE20030A0E10030CDE50030DDE58331A0E10320A0E118309FE5
+
+consume_user_prompt                               	00 0000 04E02DE518D04DE204008DE50030E0E310308DE504309DE5183093E5013043E2
+consume_pass_prompt                               	00 0000 04E02DE518D04DE204008DE50030E0E310308DE504309DE5183093E5013043E2
+
+attack_get_opt_int                                	00 0000 04E02DE518D04DE20C108DE504308DE50030A0E11030CDE50230A0E10830CDE5
+attack_get_opt_ip                                 	00 0000 04E02DE518D04DE20C108DE504308DE50030A0E11030CDE50230A0E10830CDE5
+
+attack_udp_generic                                	00 0000 10402DE958D04DE218108DE510308DE50030A0E11C30CDE50230A0E11430CDE5
+attack_udp_vse                                    	00 0000 10402DE958D04DE218108DE510308DE50030A0E11C30CDE50230A0E11430CDE5

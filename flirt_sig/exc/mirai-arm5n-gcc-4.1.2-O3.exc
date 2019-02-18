@@ -1,0 +1,10 @@
+
+call___do_global_ctors_aux                        	00 0000 04E02DE504F09DE4................................................
+call___do_global_dtors_aux                        	00 0000 04E02DE504F09DE4................................................
+call_frame_dummy                                  	00 0000 04E02DE504F09DE4................................................
+
+table_lock_val                                    	00 0000 8001A0E1F0402DE90700C0E39C309FE5800AA0E1A00AA0E103E080E090309FE5
+table_unlock_val                                  	00 0000 8001A0E1F0402DE90700C0E39C309FE5800AA0E1A00AA0E103E080E090309FE5
+
+attack_get_opt_int                                	00 0000 FF0000E2000050E310402DE90340A0E10E0000DA0430D1E5FF2002E2020053E1
+attack_get_opt_ip                                 	00 0000 FF0000E2000050E310402DE90340A0E10E0000DA0430D1E5FF2002E2020053E1
