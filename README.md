@@ -22,7 +22,7 @@ Function names are extracted using objdump tool (for ELF binaries) and pdbdump (
  
 generate_indices.py is a python code that create symbol files for each binary in the ELF and PE directories. The symbol files contain the address and name of each funtion in the binaries. Then it create DB files from each pair of functions found in the symbol files.
 
-The symbol files and database files are foudn in the db directory. More information about the db are found in the [slides](https://docs.google.com/presentation/d/1aI-6vw450eXXJht2bDZ91WQZxub33vv4mMdgqYt__eI/edit?usp=sharing)
+The symbol files and database files are found in the db directory. More information about the db are found in the [slides](https://docs.google.com/presentation/d/1aI-6vw450eXXJht2bDZ91WQZxub33vv4mMdgqYt__eI/edit?usp=sharing)
 
 ## Function Diffing Techniques:
 
