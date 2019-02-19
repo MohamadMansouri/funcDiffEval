@@ -1,3 +1,9 @@
+'''
+This python code:
+  1. Create symbol files for each binary in the ELF and PE directories. The symbol files contain the address and name of each funtion in the binarie.
+  2. Create DB files from each pair of functions found in the symbol files
+'''
+
 #!/usr/bin/python3
 
 import subprocess, os, fnmatch, codecs, random, shutil, multiprocessing, glob
