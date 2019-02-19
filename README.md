@@ -4,6 +4,8 @@ This project aims to evaluate different existing function diffing techniques. It
 
 You can find a slides about project [here](https://docs.google.com/presentation/d/1aI-6vw450eXXJht2bDZ91WQZxub33vv4mMdgqYt__eI/edit?usp=sharing)
 
+Contributions are thankfully appreciated :)
+
 ## The DB:
 
 The database was built from source codes that were compiled for different archs and platforms with different compilers, compiler versions and compiler flags. The compiled source codes are:
