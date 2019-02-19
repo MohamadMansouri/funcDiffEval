@@ -329,9 +329,6 @@ def CreatDB():
   
   print("Creating DB from random binaries...", end = " ")
   FindandWriteFunctionPair(FindDiffX(FindSymbolFiles(), list([]), list([ARCH,COMP,VERS,FLAG,PLAT])), "random")
-  
-  print("Creating DB of different functions...", end = " ")
-  # CreateRepulsionDB()
 
   print("Creating DB of Modified binaries...")
   CreateModifiedDB()
@@ -515,13 +512,13 @@ def main(argv):
   if FLAGS.work_directory[-1] != '/':
     FLAGS.work_directory = FLAGS.work_directory + '/'
 
-  # print("Processing ELF files to extract symbols...")
+  print("Processing ELF files to extract symbols...")
   ProcessFiles(FindELFFiles(), "ELF")
 
-  # print("Processing PE files to extract symbols...")
+  print("Processing PE files to extract symbols...")
   ProcessFiles(FindPEFiles(), "PE")
 
-  # print("Processing modified versions of files to extract symbols...")
+  print("Processing modified versions of files to extract symbols...")
   ProcessFiles(FindModifiedFiles(), "modified")
 
   # Build Databases for each test...
