@@ -2,7 +2,7 @@
 
 CFG-based fuzzy hash for malware classification
 by [CERT-Conix](http://blog.conixsecurity.fr/machoke-hashing/).
-machoke was orginally authored by ancelot Bogard.
+machoke was authored by ancelot Bogard.
 
 ## What does this folder contatin?
 
@@ -17,5 +17,5 @@ machoke was orginally authored by ancelot Bogard.
 	* The results are stored in results/machoke_prog
 
 ## Notes:
- * 1 and 2 apply fcatalog only on a sample of 10k entries of the database.
+ * 1 and 2 apply machoke only on a sample of 10k entries of the database.
  * Please be sure to execute the files from their directory
