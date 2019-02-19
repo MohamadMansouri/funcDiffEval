@@ -2,7 +2,7 @@
 
 This project aims to evaluate different existing function diffing techniques. It was created as a a semester prokect in [Eurecom engineering school](https://www.eurecom.fr/en) and was supported by [Talos](https://talosintelligence.com/) team.
 
-You can find a slides about project [here](https://docs.google.com/presentation/d/1aI-6vw450eXXJht2bDZ91WQZxub33vv4mMdgqYt__eI/edit?usp=sharing)
+You can find the slides about the project [here](https://docs.google.com/presentation/d/1aI-6vw450eXXJht2bDZ91WQZxub33vv4mMdgqYt__eI/edit?usp=sharing)
 
 Contributions are thankfully appreciated :)
 
