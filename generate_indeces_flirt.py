@@ -1,3 +1,8 @@
+'''
+This python code was written to create another version of the database that contains names of the functions
+See generate_indeces.py
+'''
+
 #!/usr/bin/python3
 
 import subprocess, os, fnmatch, codecs, random, shutil, multiprocessing, glob
