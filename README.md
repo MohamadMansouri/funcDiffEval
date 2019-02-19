@@ -34,6 +34,5 @@ Until this point we evaluated 4 available tools:
 
 ## Results
 
-Results are stored in the results directory in csv format. The interpretation of the results is explained in the [slides](https://docs.google.com/presentation/
-d/1aI-6vw450eXXJht2bDZ91WQZxub33vv4mMdgqYt__eI/edit?usp=sharing)
+Results are stored in the results directory in csv format. The interpretation of the results is explained in the  [slides](https://docs.google.com/presentation/d/1aI-6vw450eXXJht2bDZ91WQZxub33vv4mMdgqYt__eI/edit?usp=sharing)
 
